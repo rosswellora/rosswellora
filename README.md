@@ -1,8 +1,6 @@
-## ¡Hola! 👋 Soy Ross Wellora
+## ¡Hola! 👋 Soy Rosswellora
 
 Soy **pasante en desarrollo** entusiasta por aprender y mejorar mis habilidades en tecnología.
-
----
 
 ## 🛠️ Habilidades Técnicas
 
