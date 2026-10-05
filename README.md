@@ -35,8 +35,7 @@ Soy una persona dedicada a crecer en el área de desarrollo. Aunque estoy comenz
 
 Estoy abierto a oportunidades de aprendizaje y feedback. Si tienes alguna recomendación o consejo, ¡no dudes en contactarme!
 
-- **Email:** [Agrega tu email aquí]
-- **LinkedIn:** [Agrega tu perfil aquí]
+- **Email:** [rosswellora@gmail.com]
 
 ---
 
